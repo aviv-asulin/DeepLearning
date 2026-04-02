@@ -1,3 +1,3 @@
 # DeepLearning
-Material files for ML intro
-1. zichron yaakov house prices
+Create a full YoLo project undr YoLo Branch under main
+Put Anvil demo and several images for testing
